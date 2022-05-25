@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anciar</string>
+    <string name="section">Section %1$s</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="xml">Xml</string>
+    <string name="ui_ux">UI/UX</string>
+</resources>
